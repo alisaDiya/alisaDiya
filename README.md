@@ -6,6 +6,7 @@
 - 💬 Feel free to ask me about Java, machine learning concepts, cyber security, and my all-time favorite, C#. I'm always up for a good tech chat!
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/alisadiyathool/) or drop me an [email](alisadiyathool@gmail.com).
 - ⚡ Fun fact: I'm a nature enthusiast who loves soaking in the beauty of the outdoors 🌳.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -55,6 +56,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
   
 [![My stats](https://github-readme-stats.vercel.app/api?username=alisaDiya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
