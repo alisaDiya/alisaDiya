@@ -6,7 +6,7 @@
 - 💬 Feel free to ask me about Java, machine learning concepts, cyber security, and my all-time favorite, C#. I'm always up for a good tech chat!
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/alisadiyathool/) or drop me an [email](alisadiyathool@gmail.com).
 - ⚡ Fun fact: I'm a nature enthusiast who loves soaking in the beauty of the outdoors 🌳.
-
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
   
 <p align="left">
 </p>
