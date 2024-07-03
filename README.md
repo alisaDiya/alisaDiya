@@ -9,6 +9,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
+[![My stats](https://github-readme-stats.vercel.app/api?username=alisaDiya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 
 <p align="left"> 
@@ -59,4 +61,3 @@
   </a> 
 </p>
   
-[![My stats](https://github-readme-stats.vercel.app/api?username=alisaDiya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
