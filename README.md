@@ -7,4 +7,6 @@
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/alisadiyathool/) or drop me an [email](alisadiyathool@gmail.com).
 - ⚡ Fun fact: I'm a nature enthusiast who loves soaking in the beauty of the outdoors 🌳.
 
-  [![My stats (https://github-readme-stats.vercel.app/api?username=alisaDiya)](https://github.com/anuraghazra/github-readme-stats)]
+  [![My stats}(https://github-readme-stats.vercel.app/api?username=alisaDiya&show_icons=true&theme=radical)
+https://github.com/anuraghazra/github-readme-stats)
+  
