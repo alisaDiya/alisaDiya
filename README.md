@@ -6,7 +6,7 @@
 - 💬 Feel free to ask me about Java, machine learning concepts, cyber security, and my all-time favorite, C#. I'm always up for a good tech chat!
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/alisadiyathool/) or drop me an [email](alisadiyathool@gmail.com).
 - ⚡ Fun fact: I'm a nature enthusiast who loves soaking in the beauty of the outdoors 🌳.
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
