@@ -8,6 +8,8 @@
 - ⚡ Fun fact: I'm a nature enthusiast who loves soaking in the beauty of the outdoors 🌳.
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
+[![My stats](https://github-readme-stats.vercel.app/api?username=alisaDiya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -56,5 +58,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-  
-[![My stats](https://github-readme-stats.vercel.app/api?username=alisaDiya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
